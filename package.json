@@ -26,6 +26,6 @@
     "static-favicon": "~1.0.0"
   },
   "devDependencies": {
-    "jasmine": "~2.1.0"
+    "jasmine": "~2.99.0"
   }
 }
