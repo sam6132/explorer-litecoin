@@ -19,7 +19,7 @@
     "kerberos": "^1.1.2",
     "markdown-js": "0.0.3",
     "mongodb": "2.0.45",
-    "mongoose": "4.1.10",
+    "mongoose": "4.13.21",
     "morgan": "~1.0.0",
     "qr-image": "~2.0.0",
     "request": "2.74.0",
